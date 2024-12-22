@@ -10,3 +10,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+## Domain contains:
+- Web App
+- Android App
+- APIs
